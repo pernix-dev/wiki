@@ -5,6 +5,7 @@
 
 - Additional tools
   - [Rubocop](./gems/rubocop.md)
+  - [RSpec](./gems/rspec.md)
 
 # Step 1. Dependencies
 

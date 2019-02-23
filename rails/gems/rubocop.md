@@ -31,3 +31,11 @@ require: rubocop-rspec
 inherit_from:
   - .rubocop-pernix.yml
 ```
+
+#### 5. Check and Fix offenses
+```shell
+$ rubocop     # Check all the files
+$ rubocop -a  # Check & Fix the files if possible can.
+```
+
+If a file is not automatically fixed, you will have to help rubocop by fixing it manually.
