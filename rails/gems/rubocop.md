@@ -39,3 +39,7 @@ $ rubocop -a  # Check & Fix the files if possible can.
 ```
 
 If a file is not automatically fixed, you will have to help rubocop by fixing it manually.
+
+After the first run, you should see something like this:
+
+![](../images/rubocop_first_run.png)

@@ -29,3 +29,6 @@ $ rails g rspec:install # g is the same as 'generate'
 $ rspec
 ```
 
+And you should see something like this:
+
+![](../images/rspec_first_run.png)
