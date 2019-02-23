@@ -1,4 +1,12 @@
-# Step 1. Installing dependencies
+# Rails projects
+
+- [Dependencies](#step-1-installing-dependencies)
+- [Creating a new Rails project](#step-2-creating-a-new-rails-project)
+
+- Additional tools
+  - [Rubocop](./gems/rubocop.md)
+
+# Step 1. Dependencies
 
 ### RVM
 We are going to use RVM as our Ruby Version Manager.\
