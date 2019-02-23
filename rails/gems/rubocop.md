@@ -1,4 +1,4 @@
-# Rubocop
+# [Rubocop](https://github.com/rubocop-hq/rubocop)
 
 #### 1. Add the gems
 Add the following gems to the `Gemfile`
